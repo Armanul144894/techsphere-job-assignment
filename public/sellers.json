@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "img":"https://i.ibb.co/gZBQtpY/warcraft.png",
+        "name": "Warcraft"
+    },
+    {
+        "id":2,
+        "img":"https://i.ibb.co/qgcpxVC/rocket.png",
+        "name": "Rocket League"
+     },
+
+
+    {
+        "id":3,
+        "img":"https://i.ibb.co/qjDnVPr/revelation.png",
+        "name": "Revelation"
+         
+    },
+    {
+        "id":4,
+        "img":"https://i.ibb.co/Bn68QvS/aion.png",
+        "name": "Aion"
+         
+    }
+]
